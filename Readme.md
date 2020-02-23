@@ -10,7 +10,7 @@ Prerequisites:
 
         conda create -n opinion_distance_env python=3.6
         conda activate opinion_distance_env
-        pip install -r requirements.txt
+        conda env create -f environment.yml
     
 2. Get the TagME API gcude-token from [here](https://sobigdata.d4science.org/web/tagme/tagme-help) and add the obtained gcude-token in the file present at `files/tagme_gcude_token.txt`.
 
