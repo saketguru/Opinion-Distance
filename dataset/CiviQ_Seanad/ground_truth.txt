@@ -1,0 +1,25 @@
+doc_0.txt	0	Abolish
+doc_1.txt	0	Abolish
+doc_2.txt	0	Abolish
+doc_3.txt	0	Abolish
+doc_4.txt	0	Abolish
+doc_5.txt	0	Abolish
+doc_6.txt	0	Abolish
+doc_7.txt	0	Abolish
+doc_8.txt	8	Do not Abolish
+doc_9.txt	8	Do not Abolish
+doc_10.txt	8	Do not Abolish
+doc_11.txt	8	Do not Abolish
+doc_12.txt	8	Do not Abolish
+doc_13.txt	8	Do not Abolish
+doc_14.txt	8	Do not Abolish
+doc_15.txt	8	Do not Abolish
+doc_16.txt	16	Democracy
+doc_17.txt	16	Democracy
+doc_18.txt	16	Democracy
+doc_19.txt	16	Democracy
+doc_20.txt	16	Democracy
+doc_21.txt	16	Democracy
+doc_22.txt	16	Democracy
+doc_23.txt	8	Do not Abolish
+doc_24.txt	0	Abolish
